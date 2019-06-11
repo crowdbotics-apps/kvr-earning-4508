@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT kvr_earning_4508.wsgi:application
